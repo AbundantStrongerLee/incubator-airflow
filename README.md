@@ -96,6 +96,10 @@ As the Airflow community grows, we'd like to keep track of who is using
 the platform. Please send a PR with your company name and @githubhandle
 if you may.
 
+--------------------*****--------------------
+增加指定executor功能和修正时区
+--------------------*****--------------------
+
 Committers:
 
 * Refer to [Committers](https://cwiki.apache.org/confluence/display/AIRFLOW/Committers)
