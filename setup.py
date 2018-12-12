@@ -256,7 +256,7 @@ else:
 
 
 def do_setup():
-    verify_gpl_dependency()
+   ## verify_gpl_dependency()
     write_version()
     setup(
         name='apache-airflow',
